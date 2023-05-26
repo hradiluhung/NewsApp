@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_about">About</string>
+    <string name="back">back</string>
+    <string name="detail_link">Detail Link</string>
+    <string name="favorite">Favorite</string>
+    <string name="about">About</string>
+    <string name="published_at">"Published at: %s"</string>
+    <string name="search_news">Search News</string>
+</resources>
